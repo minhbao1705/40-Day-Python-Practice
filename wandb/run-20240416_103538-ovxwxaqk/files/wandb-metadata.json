@@ -1,0 +1,52 @@
+{
+    "os": "Windows-11-10.0.22631-SP0",
+    "python": "3.12.1",
+    "heartbeatAt": "2024-04-16T03:35:40.751531",
+    "startedAt": "2024-04-16T03:35:38.767650",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/minhbao1705/40-Day-Python-Practice.git",
+        "commit": "e53af7d8fa08ea6d89000ec9c5df4f1569b1f47e"
+    },
+    "email": "vo.minhbao9406@gmail.com",
+    "root": "D:/40-Day Python Practice",
+    "host": "MinhBao",
+    "username": "vomin",
+    "executable": "c:\\Users\\vomin\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2592.0,
+        "min": 0.0,
+        "max": 2592.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2592.0,
+            "min": 0.0,
+            "max": 2592.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 476.9384717941284,
+            "used": 263.66154193878174
+        }
+    },
+    "gpu": "NVIDIA GeForce GTX 1650 Ti",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1650 Ti",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 23.751651763916016
+    }
+}

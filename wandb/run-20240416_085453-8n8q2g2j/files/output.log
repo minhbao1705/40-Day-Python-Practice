@@ -1,0 +1,2 @@
+C:\Users\vomin\AppData\Local\Temp\ipykernel_22232\1316080313.py:37: RuntimeWarning: overflow encountered in square
+  loss = (y_hat - y)**2 / 2.0

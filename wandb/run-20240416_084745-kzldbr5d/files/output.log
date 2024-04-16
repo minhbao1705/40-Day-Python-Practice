@@ -1,0 +1,2 @@
+C:\Users\vomin\AppData\Local\Temp\ipykernel_22232\2959040929.py:37: RuntimeWarning: overflow encountered in multiply
+  loss = (y_hat - y)*(y_hat - y) / 2.0
